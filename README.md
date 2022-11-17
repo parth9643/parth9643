@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parth9643
-- 👀 I’m interested in CPP||Web Development 
+- 👀 I’m interested in DSA || Web Development 
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on JS
+- 💞️ I’m looking to collaborate on CSS,JS
 - 📫 Connect me on https://www.linkedin.com/in/parthshukla9643/
 
 <!---
