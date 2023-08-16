@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parthshukla9643/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parthshukla9643/" height="30" width="40" /></a>
 <a href="https://instagram.com/parth9643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth9643" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/parth_1255" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parth_1255" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parthshukla9717830829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthshukla9717830829" height="30" width="40" /></a>
+<a href="https://leetcode.com/PS_9643/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthshukla9717830829" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
